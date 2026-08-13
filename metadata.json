@@ -1,0 +1,6 @@
+{
+  "name": "Fastwings Airlines",
+  "description": "Companhia aérea low-cost baseada em Lisboa T2 com voos para os Açores, motor de reservas completo e painel operacional CEO OCC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
